@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Twibap/EVM-contract#readme",
   "dependencies": {
+    "chai": "^4.2.0",
     "openzeppelin-solidity": "^2.0.0"
   }
 }
