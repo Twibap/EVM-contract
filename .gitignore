@@ -30,4 +30,4 @@ package-lock.json
 
 # End of https://www.gitignore.io/api/soliditytruffle
 
-./confidential.js
+confidential.js

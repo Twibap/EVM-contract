@@ -1,0 +1,27 @@
+{
+  "name": "contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twibap/EVM-contract.git"
+  },
+  "author": "Twibap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Twibap/EVM-contract/issues"
+  },
+  "homepage": "https://github.com/Twibap/EVM-contract#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "openzeppelin-solidity": "^2.0.0",
+    "truffle-hdwallet-provider": "0.0.6"
+  }
+}
